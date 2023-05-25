@@ -1,10 +1,10 @@
 # Kirby-Game
-Protótipo de jogo usando C#
+Protótipo de jogo usando C# <br>
 
 Controls:
 
-W - UP
-S - DOWN
-A = LEFT
-D = RIGHT
+W = UP <br>
+S = DOWN <br>
+A = LEFT <br>
+D = RIGHT <br>
 SPACE = ATTACK
